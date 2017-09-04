@@ -1,0 +1,6 @@
+{
+  "defaults": {
+    "ignore": ["notice"]
+  },
+  "urls": ["http://localhost:3000/"]
+}
